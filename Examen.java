@@ -6,7 +6,7 @@ public class Examen {
 
 		System.out.println("Bienvenido a Git. Un saludo");
 		
-		System.out.println("Primer print para la rama cadenas");
+		System.out.println("Primer print para la rama cadenas. Segundo commit también listo");
 	}
 
 }

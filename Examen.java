@@ -4,7 +4,7 @@ public class Examen {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Bienvenido al examen");
+		System.out.println("Bienvenido a Git. Un saludo");
 	}
 
 }

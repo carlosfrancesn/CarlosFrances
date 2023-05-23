@@ -5,6 +5,8 @@ public class Examen {
 		// TODO Auto-generated method stub
 
 		System.out.println("Bienvenido a Git. Un saludo");
+		
+		System.out.println("Primer print para la rama cadenas");
 	}
 
 }
